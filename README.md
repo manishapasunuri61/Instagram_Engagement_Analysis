@@ -1,4 +1,4 @@
-# Instagram_Engagement_Analysis
+# Instagram_User_Engagement_Analysis
 Manisha Pasunuri | Data Analyst
 EDA on Instagram user behavior to improve engagement quality and reduce churn risk
 
