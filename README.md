@@ -2,11 +2,11 @@
 
 **Project Overview:**
 
-Instagram is shifting its product strategy from maximizing time spent to improving Engagement Quality. This project analyzes over 1.5 million user records to identify the behavioral factors influencing meaningful engagement, detect early Dormancy Risk Users, and provide data-driven recommendations that improve long-term user retention while maintaining platform health.
+A social media platform is shifting its product strategy from maximizing time spent to improving Engagement Quality. This project analyzes over 1.5 million user records to identify the behavioral factors influencing meaningful engagement, detect early Dormancy Risk Users, and provide data-driven recommendations that improve long-term user retention while maintaining platform health.
 
 **Business Problem:**
 
-Instagram aims to move beyond measuring platform success through usage time alone and instead focus on Engagement Quality Efficiency (EQE) — the efficiency with which user attention is converted into meaningful interactions.
+The social media platform aims to move beyond measuring platform success through usage time alone and instead focus on Engagement Quality Efficiency (EQE) — the efficiency with which user attention is converted into meaningful interactions.
 
 **Key challenges included:**
 
