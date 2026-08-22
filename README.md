@@ -18,7 +18,7 @@ This project builds interactive dashboards to identify high-value user behaviors
 
 **Dashboard:**
 
-https://public.tableau.com/app/profile/pasunuri.manisha/viz/InstagramEngagementQualityUserRetentionAnalysis/EngagementQualityDashboard
+https://public.tableau.com/app/profile/pasunuri.manisha/viz/SocialMediaEngagementQualityUserRetentionAnalytics/EngagementQualityDashboard
 
 **Key Objectives:**
 
