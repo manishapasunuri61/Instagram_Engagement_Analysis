@@ -1,4 +1,4 @@
-**Instagram Engagement Quality & User Retention Analysis**
+**Product Analytics & User Engagement Framework**
 
 **Project Overview:**
 
